@@ -51,3 +51,11 @@ Tela de download:
 
 sobre:
 <img width="1206" height="429" alt="Image" src="https://github.com/user-attachments/assets/85a5e5c9-1ba8-448d-ad04-6eee5eff8cef" />
+
+Integrantes
+Haniel Sousa
+Matheus Pereira
+Kaique de Souza
+Gabriel Henrique
+Rafaela Portugal 
+Tais Millena
